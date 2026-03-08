@@ -18,6 +18,9 @@ The system records lock and unlock activities, detects unauthorized access attem
 - Wi-Fi Communication
 - Backend Server
 - Web / Mobile Monitoring Interface
+## System Architecture
+
+![System Architecture](system-architecture.jpeg)
 
 ## System Workflow
 1. Door lock interaction detected.
